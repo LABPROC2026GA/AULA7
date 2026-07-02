@@ -1,14 +1,3 @@
-
-
-Pular para o conteúdo
-Como usar o E-mail de Universidade de São Paulo com leitores de tela
-
-Conversas
- 
-Regulamentos do programa
-Powered by Google
-Última atividade da conta: há 0 minuto
-Detalhes
 #include <stdio.h>
 #include <time.h>
 
@@ -144,5 +133,3 @@ int main() {
 
     return 0;
 }
-calculadorabin.c
-Exibindo calculadorabin.c.
